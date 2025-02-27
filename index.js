@@ -2,7 +2,8 @@
 
 const allowedSchemas = [
   'https://schema.getpostman.com/json/collection/v2.1.0/collection.json',
-  'https://schema.getpostman.com/json/collection/v2.0.0/collection.json'
+  'https://schema.getpostman.com/json/collection/v2.0.0/collection.json',
+  'https://schema.postman.com/json/collection/v2.0.0/collection.json'
 ];
 
 var fs = require('fs'),
